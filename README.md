@@ -32,7 +32,7 @@ With the completion of this specialization, I'm excited to explore further advan
 If you'd like to connect, discuss cybersecurity, or share experiences, feel free to reach out to me through the following platforms:
 
 - GitHub: [github.com/brandonsutan](https://github.com/brandonsutan)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/brandonsutan/)
+- LinkedIn: [linkedin.com/in/brandonsutan](https://www.linkedin.com/in/brandonsutan/)
 - Portfolio: [Brandon Sutan](https://brandonsutan.github.io/)
 
 Thank you for being a part of this incredible journey with me. Here's to continued learning and growth! 🚀
