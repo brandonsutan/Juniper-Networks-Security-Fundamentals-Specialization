@@ -1,13 +1,13 @@
 # Juniper Networks Security Fundamentals Specialization - Completed
 
-![Completion Badge](completion_badge.jpg)
+![Completion Badge](JuniperNetworkSecurityFundamentals.png)
 
 Congratulations! 🎉 I'm thrilled to announce that I've successfully completed the Juniper Networks Security Fundamentals Specialization offered by Act Now Education. This journey has been both enlightening and rewarding, and I'm excited to share my achievements and experiences.
 
 ## Specialization Overview
 
 - **Total Courses:** 3
-- **Total Duration:** XX hours
+- **Total Duration:** 40 hours
 - **Average Rating:** 5.0
 
 ## Key Takeaways
