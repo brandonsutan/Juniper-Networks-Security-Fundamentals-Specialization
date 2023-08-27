@@ -32,8 +32,4 @@ This course has given me a wealth of knowledge in security platforms, IPsec VPNs
 
 Completing this course marks a significant milestone in my journey to becoming a Juniper Networks Security Professional. I'm enthusiastic about further honing my skills and knowledge, and I'm excited to apply what I've learned to real-world scenarios.
 
-## Connect with the Instructor
-
-Thank you to our instructor, Gordon, for guiding us through this enriching course. If you have questions, insights to share, or want to connect, you can reach out to Gordon through:
-
 Thank you for accompanying me on this educational endeavor. Here's to continued growth and success in the world of network security! 🚀🛡️
