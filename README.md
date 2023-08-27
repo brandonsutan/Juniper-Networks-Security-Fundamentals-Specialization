@@ -25,14 +25,14 @@ I am grateful to Act Now Education for offering this comprehensive and insightfu
 
 ## What's Next
 
-With the completion of this specialization, I'm excited to explore further advancements in cybersecurity. I'll be looking for opportunities to apply my newfound knowledge and skills in real-world projects and challenges. Stay tuned for more updates on my journey!
+Completing this specialization, I'm excited to explore further advancements in cybersecurity. I'll be looking for opportunities to apply my newfound knowledge and skills in real-world projects and challenges. Stay tuned for more updates on my journey!
 
 ## Connect with Me
 
 If you'd like to connect, discuss cybersecurity, or share experiences, feel free to reach out to me through the following platforms:
 
-- GitHub: [github.com/brandonsutan](https://github.com/brandonsutan)
-- LinkedIn: [linkedin.com/in/brandonsutan](https://www.linkedin.com/in/brandonsutan/)
+- GitHub: [Brandon Sutan](https://github.com/brandonsutan)
+- LinkedIn: [Brandon Sutan](https://www.linkedin.com/in/brandonsutan/)
 - Portfolio: [Brandon Sutan](https://brandonsutan.github.io/)
 
 Thank you for being a part of this incredible journey with me. Here's to continued learning and growth! 🚀
