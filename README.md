@@ -7,7 +7,7 @@
 ## Specialization Overview
 
 - **Total Courses:** 3
-- **Total Duration:** 40 hours
+- **Total Duration:** 24 hours
 - **Average Rating:** 5.0
 
 ## Key Takeaways
