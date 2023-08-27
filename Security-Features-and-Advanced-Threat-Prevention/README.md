@@ -1,6 +1,6 @@
 # Security Features and Advanced Threat Prevention - Completed
 
-![Completion Badge](SecurityFeaturesAdvancedThreatPrevention.png)
+![Completion Badge](SecurityFeaturesandAdvancedThreatPrevention.png)
 
 I'm thrilled to share that I've successfully completed the **Security Features and Advanced Threat Prevention** course as part of the Juniper Networks Security Fundamentals Specialization! This course has expanded my horizons in network security, and I'm excited to reflect on my journey and accomplishments.
 
