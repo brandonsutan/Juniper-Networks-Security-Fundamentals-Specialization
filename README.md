@@ -2,7 +2,7 @@
 
 ![Completion Badge](JuniperNetworkSecurityFundamentals.png)
 
-Congratulations! 🎉 I'm thrilled to announce that I've successfully completed the Juniper Networks Security Fundamentals Specialization offered by Act Now Education. This journey has been both enlightening and rewarding, and I'm excited to share my achievements and experiences.
+🎉 I'm thrilled to announce that I've completed the Juniper Networks Security Fundamentals Specialization offered by Act Now Education. This journey has been enlightening and rewarding, and I'm excited to share my achievements and experiences.
 
 ## Specialization Overview
 
@@ -21,19 +21,19 @@ Throughout this specialization, I've gained a solid foundation in configuring Ju
 
 ## Gratitude
 
-I want to express my gratitude to Act Now Education for offering this comprehensive and insightful specialization. Additionally, I'd like to thank the instructors and mentors who contributed their expertise, making this learning journey both engaging and impactful.
+I am grateful to Act Now Education for offering this comprehensive and insightful specialization. Additionally, I'd like to thank the instructors and mentors who contributed their expertise, making this learning journey engaging and impactful.
 
 ## What's Next
 
-With the completion of this specialization, I'm excited to explore further advancements in the field of cybersecurity. I'll be looking for opportunities to apply my newfound knowledge and skills in real-world projects and challenges. Stay tuned for more updates on my journey!
+With the completion of this specialization, I'm excited to explore further advancements in cybersecurity. I'll be looking for opportunities to apply my newfound knowledge and skills in real-world projects and challenges. Stay tuned for more updates on my journey!
 
 ## Connect with Me
 
 If you'd like to connect, discuss cybersecurity, or share experiences, feel free to reach out to me through the following platforms:
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- GitHub: [github.com/brandonsutan](https://github.com/brandonsutan)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/brandonsutan/)
+- Portfolio: [Brandon Sutan](https://brandonsutan.github.io/)
 
 Thank you for being a part of this incredible journey with me. Here's to continued learning and growth! 🚀
 
